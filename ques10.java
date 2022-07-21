@@ -55,5 +55,6 @@ public class  ques10{
             n=n/pow;
             int res=(int)Math.pow(10,nod-k)*lastDigits+n;
             System.out.println(res);
+            scn.close();
     }
 }
