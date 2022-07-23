@@ -27,6 +27,6 @@ public class ques1{
             }
             System.out.println();
         }
-
+scn.close();
     }
 }
